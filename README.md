@@ -1,5 +1,5 @@
 # FetchEmails
-Nodejs script to fetch new mails.
+Nodejs script to fetch new mails using Gmail API.
 
 ## Installation
 

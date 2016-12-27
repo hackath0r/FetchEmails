@@ -1,0 +1,27 @@
+{
+  "name": "fetch_emails",
+  "version": "1.0.0",
+  "description": "fetch emails with Gmail API",
+  "main": "fetchEmails.js",
+  "scripts": {
+    "test": "node fetchEmails.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prhacker/FetchEmails.git"
+  },
+  "keywords": [
+    "gmail"
+  ],
+  "author": "Prashant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prhacker/FetchEmails/issues"
+  },
+  "homepage": "https://github.com/prhacker/FetchEmails#readme",
+  "dependencies": {
+    "google-auth-library": "^0.9.10",
+    "googleapis": "^15.0.0",
+    "mongodb": "^2.2.16"
+  }
+}
